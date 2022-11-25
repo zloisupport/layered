@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "layered", "layered\layered.vcxproj", "{6CC5C334-119A-4BE3-93A7-D796E0D87158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC5C334-119A-4BE3-93A7-D796E0D87158}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6CC5C334-119A-4BE3-93A7-D796E0D87158}.Debug|Win32.Build.0 = Debug|Win32
+		{6CC5C334-119A-4BE3-93A7-D796E0D87158}.Release|Win32.ActiveCfg = Release|Win32
+		{6CC5C334-119A-4BE3-93A7-D796E0D87158}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
